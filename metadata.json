@@ -1,0 +1,5 @@
+{
+  "name": "Copy of React Authentication System",
+  "description": "A full-featured login authentication system built with React, TypeScript, and Tailwind CSS. It includes user registration, login, a protected dashboard, and logout functionality with a mocked backend service.",
+  "requestFramePermissions": []
+}
