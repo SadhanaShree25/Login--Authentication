@@ -52,7 +52,7 @@ npm run dev
 
 ```
 
-#👩‍💻 Author
+## 👩‍💻 Author
 
 **Sadhana Shree**
 
