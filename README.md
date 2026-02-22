@@ -52,7 +52,8 @@ npm run dev
 
 ```
 
-##👩‍💻 Author
+#👩‍💻 Author
 
 **Sadhana Shree**
-***Naan Mudhalvan – Front End Technologies Project***
+
+***Naan Mudhalvan –  Front End Technologies Project***
