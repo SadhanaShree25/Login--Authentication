@@ -1,32 +1,41 @@
-# Login Authentication System
+# 🔐 Login Authentication System  
 
-A secure and modern login authentication system built with Replit Auth, featuring multiple login methods, protected routes, and a clean, professional interface.
-
----
-
-## Features
-
-- **User Registration & Login**  
-  Register new users and authenticate existing users securely.
-
-- **Multiple Login Methods**  
-  Support for Google, GitHub, X, Apple, and traditional email/password login.
-
-- **Protected Routes**  
-  Pages or components requiring authentication are only accessible to logged-in users.
-
-- **User Profile Display**  
-  Shows authenticated user information such as name, email, and profile picture.
-
-- **Logout & Session Management**  
-  Allows users to safely log out while managing active sessions.
-
-- **Professional UI**  
-  Clean login interface with form validation, responsive design, and smooth user experience.
+A modern and secure login authentication UI built using **React** and **TypeScript**.  
+📌 This project was created as part of my **Naan Mudhalvan Project** under the topic **Front End Technologies**.
 
 ---
 
+## 🚀 Project Overview  
+
+It  is a responsive authentication interface that provides a clean and professional login experience.  
+
+It demonstrates how to build authentication flows using modern frontend technologies with proper routing and state handling.
+
 ---
+
+## ✨ Features  
+
+- 🔑 User Login Form  
+- 📝 User Registration Form   
+- 🛡️ Protected Routes (Frontend Level)  
+- 👤 User Profile Display  
+- 🔓 Logout Functionality  
+- 📱 Fully Responsive Design  
+- ✅ Form Validation  
+- 🎨 Clean and Professional UI  
+
+---
+
+## 🛠️ Tech Stack  
+
+- ⚛️ React.js  
+- 🟦 TypeScript  
+- 🎨 CSS / Tailwind CSS  
+- 📦 React Router  
+
+---
+
+
 
 ## Installation
 
@@ -34,20 +43,16 @@ A secure and modern login authentication system built with Replit Auth, featurin
 ```bash
 git clone https://github.com/your-username/AuthGuard.git
 cd AuthGuard
+```
 
-2. **Install dependencies**
-
-For backend:
-cd server
+2. **For frontend:**
+```bash
 npm install
-
-
-For frontend:
-cd client
-npm install
-
-3. **Start the development server**
-
-Backend:
-cd server
 npm run dev
+
+```
+
+##👩‍💻 Author
+
+**Sadhana Shree**
+***Naan Mudhalvan – Front End Technologies Project***
